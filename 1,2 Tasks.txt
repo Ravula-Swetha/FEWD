@@ -1,0 +1,34 @@
+FEWT:
+2) Create a Portfolio page using HTML
+It should contain
+
+Self introduction
+
+Skills
+
+Projects/work experiences (Git links)
+
+Feedback /achivements
+
+Education profile
+
+Contact information.(Social media /phone /email)
+
+ 
+
+Note: once you create the poftfolio upload the page with neccesary document to Github account with public access and submit that github link (Gitsandbox)
+
+1) Create a Navigation bar using HTML (Without CSS and Bootstarp)
+It should contain:
+
+Home
+
+Signup
+
+ Login
+
+Search Bar
+
+Note: Once you create web page upload the page to GitHub account with public access and submit that GitHub link (Gitsandbox)
+
+ 

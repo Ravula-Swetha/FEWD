@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="./FormStyle.css">
+</head>
+<body>
+      <!-- FORM -->
+      <div>
+        <form action="#" id="form">
+            <h1 id="formHeading">FORM</h1>
+            <!-- Email -->
+            <div class="formBody">
+                <label for="mail">Enter email
+                    <input type="email" id="mail">
+                </label>
+                <br><br>
+
+                <!-- password -->
+                <label for="password">Enter password
+                    <input type="password" id="password">
+                </label>
+                <br><br>
+
+                <!-- Checkbox -->
+                <label>Select gender: </label>
+                <input type="checkbox" value="male" id="male">
+                <label for="male">Male</label>
+                <input type="checkbox" value="female" id="female">
+                <label for="female">Female</label>
+                </label>
+                <br><br>
+
+                <!-- Radio -->
+                <label>Selct Subjects:</label>
+                <input type="radio" id="math" value="math">
+                <label for="physics">Math</label>
+                <input type="radio" id="physics" value="physics">
+                <label for="physics">Physics</label>
+                <input type="radio" id="chemistry" value="chemistry">
+                <label for="chemistry">Chemistry</label>
+                <br><br>
+
+                <!-- dropdown -->
+                <label for="class">Class:</label>
+                <select id="class">
+                    <option value="1">I</option>
+                    <option value="2">II</option>
+                    <option value="3">III</option>
+                </select>
+                <br><br>
+
+                <!-- textbox -->
+                <label for="school">School name:
+                    <input type="text" id="school">
+                </label>
+                <br><br>
+
+                <!-- Textarea -->
+                <label for="address">Address:</label>
+                <textarea id="address" rows="3" cols="40" placeholder="Type your address here"></textarea>
+                <br><br>
+
+                <!-- submit -->
+                
+                    <button value="submit" class="Btn">Submit</button>
+                
+                <!-- reset -->
+                
+                    <button value="reset" class="Btn">Reset</button>
+                
+            </div>
+        </form>
+    </div>
+</body>
+</html>
