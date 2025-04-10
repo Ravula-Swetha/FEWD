@@ -1,0 +1,36 @@
+*{
+    font-family: monospace;
+}
+#form{
+    margin-inline: 450px;
+    margin-top: 100px;
+    padding: 30px;
+    width: 500px;
+    height: 440px;
+    border-radius: 5px;
+    border: 1px rgb(181, 178, 178) solid;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.1);
+    background-color: rgb(255, 255, 255);
+}
+
+#formHeading{
+    text-align: center;
+}
+
+.formBody{
+    font-size: large;
+    padding: 5px;
+}
+
+.Btn{
+    margin-top: 10px;
+    margin-inline: 70px;
+    height: 30px;
+    width: 70px;
+    font-size: 15px;
+    border-radius: 5%;
+    border: 1px solid green;
+    background-color: rgb(97, 218, 97);
+    color: white;
+    cursor:pointer;
+}
